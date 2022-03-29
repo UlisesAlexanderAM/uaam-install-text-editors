@@ -1,0 +1,10 @@
+* UAAM Install text editors
+
+Fish function to install my terminal text editors in a Arch based system.
+
+Packages to install:
+
+- Nano
+- Micro
+- Helix
+- Emacs-git (my modified PKGBUILD)
