@@ -7,4 +7,4 @@ Packages to install:
 - Nano
 - Micro
 - Helix
-- Emacs-git (my modified PKGBUILD)
+- Emacs-nativecom
